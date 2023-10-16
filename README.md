@@ -12,7 +12,7 @@ Fixed HTML elements to follow sequential order
 
 Added comments and alt attributes to img element to increase accessibility
 
-https://user-images.githubusercontent.com/82012128/275305238-8f18d275-22e8-416d-bcf5-34d8de5e04cf.png
+![](assets/images/Horiseon%20SS.png)
 
 
 
